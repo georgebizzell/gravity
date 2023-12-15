@@ -1,2 +1,2 @@
-# gravity
+# Galaxy
 Galaxy simulator
